@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FET_Piltover_Detect_Sensor</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.silabs.ss.framework.ide.project.sls.core.slsResourceBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>com.silabs.ss.framework.ide.project.sls.core.SLSProjectNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.pdm</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/.pdm/</location>
+		</link>
+		<link>
+			<name>.settings</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/.settings/</location>
+		</link>
+		<link>
+			<name>.uceditor</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/.uceditor/</location>
+		</link>
+		<link>
+			<name>GNU ARM v10.2.1 - Default</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/GNU ARM v10.2.1 - Default/</location>
+		</link>
+		<link>
+			<name>IOT_Challenge_FET_Piltover_3.pintool</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/IOT_Challenge_FET_Piltover_3.pintool</location>
+		</link>
+		<link>
+			<name>IOT_Challenge_FET_Piltover_3.slcp</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/IOT_Challenge_FET_Piltover_3.slcp</location>
+		</link>
+		<link>
+			<name>IOT_Challenge_FET_Piltover_3.slps</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/IOT_Challenge_FET_Piltover_3.slps</location>
+		</link>
+		<link>
+			<name>app.c</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/app.c</location>
+		</link>
+		<link>
+			<name>app.h</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/app.h</location>
+		</link>
+		<link>
+			<name>autogen</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/autogen/</location>
+		</link>
+		<link>
+			<name>config</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/config/</location>
+		</link>
+		<link>
+			<name>create_bl_files.bat</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/create_bl_files.bat</location>
+		</link>
+		<link>
+			<name>create_bl_files.sh</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/create_bl_files.sh</location>
+		</link>
+		<link>
+			<name>gecko_sdk_4.0.0</name>
+			<type>2</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/gecko_sdk_4.0.0/</location>
+		</link>
+		<link>
+			<name>imported_project_report.html</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/imported_project_report.html</location>
+		</link>
+		<link>
+			<name>main.c</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/main.c</location>
+		</link>
+		<link>
+			<name>max30100.c</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/max30100.c</location>
+		</link>
+		<link>
+			<name>max30100.h</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/max30100.h</location>
+		</link>
+		<link>
+			<name>max30205.c</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/max30205.c</location>
+		</link>
+		<link>
+			<name>max30205.h</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/max30205.h</location>
+		</link>
+		<link>
+			<name>readme.md</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/readme.md</location>
+		</link>
+		<link>
+			<name>readme_img0.png</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/readme_img0.png</location>
+		</link>
+		<link>
+			<name>readme_img1.png</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/readme_img1.png</location>
+		</link>
+		<link>
+			<name>readme_img2.png</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/readme_img2.png</location>
+		</link>
+		<link>
+			<name>readme_img3.png</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/readme_img3.png</location>
+		</link>
+		<link>
+			<name>readme_img4.png</name>
+			<type>1</type>
+			<location>C:/Users/Ha Duyen Duc/Desktop/IOT_FET_Piltover/Hardware/IOT_Challenge_FET_Piltover_Detect_Sensor/readme_img4.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,11 @@
+FET_Piltover
+Link video demo :https://youtu.be/tjxu79O637I
+Folder Hardware:
+	- Detect_Sensor: Đọc dữ liệu từ cảm biến gửi dữ liệu sang Scanner_Device qua giao tiếp BLE
+	- Scanner_Device:Đọc data gửi từ Detect_Sensor thông qua UART gửi lên Server
+Folder Mobile App:
+	- F1ManageAPI: Hỗ trợ kết nối app với server
+	- F1ManagerApp:Hiển thị thông tin, kết quả đo của bệnh nhân
+Folder Server:
+	- Web: Hiển thị tóm tất nội dung database
+	- iotNodejs:Liên lạc giữa vòng tay với server

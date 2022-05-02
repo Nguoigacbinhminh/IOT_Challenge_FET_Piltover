@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">F1 Monitor App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="phone_number">Số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="register">Đăng ký</string>
+    <string name="insert_content">Nhập nội dung</string>
+    <string name="confirm_profile">Cập nhật thông tin</string>
+    <string name="other">Khác</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="select_gender">Vui lòng chọn giới tính</string>
+    <string name="address">Địa chỉ</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="age">Tuổi</string>
+    <string name="save_info">Lưu thông tin</string>
+    <string name="additional_information">Thông tin bổ sung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

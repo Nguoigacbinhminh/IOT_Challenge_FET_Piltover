@@ -1,0 +1,16 @@
+{
+  "name": "iotnodejs",
+  "version": "1.0.0",
+  "description": "this is a test version for the bigger proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "sudo npm install serialport"
+  },
+  "author": "maestro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "serialport": "^10.4.0"
+  }
+}

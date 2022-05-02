@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Add patient page!">
+        <title>Add patient</title>
+        <link href="./css/style.css" rel="stylesheet" />
+    </head>
+    <!-- <style>
+        input[type=text]{
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+    </style> -->
+
+    <body>
+        <div class="wrapper">
+            <div class="header">
+                <div class="header_text"><u><b>This is the page to add patient into database!</b></u></div>
+            </div>
+
+            <div class="container">
+                <form action="php/add_patient.php" method="post">
+                    <label for "id">ID</label><br>
+                    <input type="number" id="id" name="id"><br><br>
+
+                    <label for="name">Name</label><br>
+                    <input type="text" id="name" name="name"><br><br>
+
+                    <label for="age">Age</label><br>
+                    <input type="number" id="age" name="age"><br><br>
+
+                    <label for="gender">Gender</label><br>
+                    <input type="number" id="gender" name="gender"><br><br>
+                    
+                    <label for="addr">Address</label><br>
+                    <input type="text" id="addr" name="addr"><br><br>
+
+                    <input type="submit" value="Add Patient!">
+                </form>
+
+            </div>
+
+            <div class="footer">
+                <div clas="copyright"><u><b>This is property of FET_Piltover teams</b></u>
+                    <div class="note">
+                        Ha Duyen Duc
+                        <br>Nguyen Hoang Huy
+                        <br>Nguyen Huu Hung
+                        <br>Pham Dang Dang
+                        <br>Nguyen Van Duc
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

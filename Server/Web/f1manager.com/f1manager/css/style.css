@@ -1,0 +1,60 @@
+.header_text{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: black;
+}
+
+.wrapper{
+    background-image: url('../source/background.jpg');
+}
+
+.header{
+    height: 60px;
+    background-color: rgb(202, 202, 202);
+}
+
+.container{
+    height: 700px;
+    background-color: transparent;
+    /* padding: 2rem 2rem; */
+    text-align: center;
+
+}
+
+.tablearea{
+    float: left;
+    width: 50%;
+    padding: 5px black;
+}
+
+.nav{
+    height: 30px;
+    background-color: green;
+}
+
+.table{
+    border-color: black;
+    border:solid 1px;
+    background-color: white;
+}
+
+
+.footer{
+    height: 30px;
+    background-color: white;
+}
+
+.copyright{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6px;
+    align-items: center;
+    text-align: left;
+}
+
+.note{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 8px;
+    align-items: center;
+    text-align: left;
+}
